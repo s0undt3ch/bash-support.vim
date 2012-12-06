@@ -26,7 +26,7 @@ filetype  indent on
 "-------------------------------------------------------------------------------
 " Switch syntax highlighting on.
 "-------------------------------------------------------------------------------
-syntax    on            
+syntax    on
 "
 " Platform specific items:
 " - central backup directory (has to be created)
