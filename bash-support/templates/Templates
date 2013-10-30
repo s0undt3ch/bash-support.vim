@@ -2,13 +2,13 @@
 §  User Macros
 § =============================================================
 
-SetMacro( 'AUTHOR',      'YOUR NAME' )
-SetMacro( 'AUTHORREF',   '' )
+SetMacro( 'AUTHOR',      'Pedro Algarvio' )
+SetMacro( 'AUTHORREF',   's0undt3ch' )
 SetMacro( 'COMPANY',     '' )
 SetMacro( 'COPYRIGHT',   'Copyright (c) |YEAR|, |AUTHOR|' )
-SetMacro( 'EMAIL',       '' )
-SetMacro( 'LICENSE',     'GNU General Public License' )
-SetMacro( 'ORGANIZATION','' )
+SetMacro( 'EMAIL',       'pedro@algarvio.me' )
+SetMacro( 'LICENSE',     'BSD' )
+SetMacro( 'ORGANIZATION','UfSoft.org' )
 
 SetFormat( 'DATE', '%x' )
 SetFormat( 'TIME', '%H:%M' )
